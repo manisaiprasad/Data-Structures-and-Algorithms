@@ -115,7 +115,7 @@ hash_map.delete("one")
 print(hash_map.get("one"))
 print(hash_map.size())
 # size: 4
-# one: 1
+# one: 1git 
 # neo: 11
 # three: 3
 # size: 4
